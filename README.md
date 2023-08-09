@@ -1,3 +1,7 @@
-## docker-maven-protobuf
+## docker-jdk-maven
 
-A docker image containing both maven and google-protobuf.
+A docker image containing both jdk and maven pre installed
+
+* jdk 17
+* maven 3.8.8
+
